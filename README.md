@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 <!--badges-->
 <div>
-  <a href="https://img.shields.io/badge/-JAVASCRIPT-yellow"></a>
+  <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>
 </div>
