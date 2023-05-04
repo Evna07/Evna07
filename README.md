@@ -1,5 +1,5 @@
 <div id ="header" align="center">
-  <img src="https://giphy.com/embed/s63Jzew1dfO3j6nndV">
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/s63Jzew1dfO3j6nndV" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Lighit-transparent-s63Jzew1dfO3j6nndV">via GIPHY</a></p>
 </div>
 
 <!--
