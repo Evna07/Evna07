@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 <div>
   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>
   <img src="https://img.shields.io/badge/-HTML-orange"/>
+  <img src="https://img.shields.io/badge/-CSS-blue"/>
 </div>
