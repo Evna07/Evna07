@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id ="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBlMDI1OWNhN2I3MDliZDVmZDYwNGE2M2YxYzVlOWFiMmE2NjdiZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/s63Jzew1dfO3j6nndV/giphy.gif" width="250"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBlMDI1OWNhN2I3MDliZDVmZDYwNGE2M2YxYzVlOWFiMmE2NjdiZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/s63Jzew1dfO3j6nndV/giphy.gif" width="350"/>
 </div>
 
 <!--badges-->
@@ -21,4 +21,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>
   <img src="https://img.shields.io/badge/-HTML-orange"/>
   <img src="https://img.shields.io/badge/-CSS-blue"/>
+  <img src="https://img.shields.io/badge/-VISUAL_STUDIO-14b3e3"/>
+  <img src="https://img.shields.io/badge/-WEB_STORM-222324"/>
 </div>
