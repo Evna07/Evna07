@@ -12,6 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--fun stuff
+  badges https://shields.io/
+  gifs https://giphy.com/search/coding
+  to finish this page https://www.sitepoint.com/github-profile-readme/
+  my inspiration https://github.com/Alena2020
+-->
 <div id ="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBlMDI1OWNhN2I3MDliZDVmZDYwNGE2M2YxYzVlOWFiMmE2NjdiZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/s63Jzew1dfO3j6nndV/giphy.gif" width="350"/>
 </div>
