@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 <h3>Languages and Tools:</h3>
 <div>
   <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/></a>
-  <img src="https://img.shields.io/badge/-HTML-orange"/>
-  <img src="https://img.shields.io/badge/-CSS-blue"/>
-  <img src="https://img.shields.io/badge/-VISUAL_STUDIO-14b3e3"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML-orange"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS-blue"/></a>
+  <a href="https://pl.wikipedia.org/wiki/Visual_Studio_Code"><img src="https://img.shields.io/badge/-VISUAL_STUDIO-14b3e3"/></a>
   <img src="https://img.shields.io/badge/-WEBSTORM-222324"/>
   <img src="https://img.shields.io/badge/-CHATGPT-78cc8f"/>
 </div>
@@ -44,6 +44,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-BOOTSTRAP-purple"/>
 </div>
 <!--courses and projects-->
+<h3>Courses and projects:</h3>
+<p>Projects completed by studying materials from <a href="https://hyperskill.org/tracks">JetBrains Hyperskill</a>:</p>
 
 <!--operating systems-->
 
