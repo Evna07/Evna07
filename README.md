@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-HTML-orange"/>
   <img src="https://img.shields.io/badge/-CSS-blue"/>
   <img src="https://img.shields.io/badge/-VISUAL_STUDIO-14b3e3"/>
-  <img src="https://img.shields.io/badge/-WEB_STORM-222324"/>
+  <img src="https://img.shields.io/badge/-WEBSTORM-222324"/>
 </div>
 <h3>Frameworks and Libraries:</h3>
 <div>
