@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBlMDI1OWNhN2I3MDliZDVmZDYwNGE2M2YxYzVlOWFiMmE2NjdiZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/s63Jzew1dfO3j6nndV/giphy.gif" width="350"/>
 </div>
 
-<!--badges-->
+<!--languages and tools-->
 <h3>Languages and Tools:</h3>
 <div>
   <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/></a>
@@ -25,7 +25,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-VISUAL_STUDIO-14b3e3"/>
   <img src="https://img.shields.io/badge/-WEBSTORM-222324"/>
 </div>
+<!--frameworks and libraries-->
 <h3>Frameworks and Libraries:</h3>
 <div>
   <img src="https://img.shields.io/badge/-BOOTSTRAP-purple"/>
 </div>
+<!--courses and projects-->
