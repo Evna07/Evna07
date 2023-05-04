@@ -17,10 +17,15 @@ Here are some ideas to get you started:
 </div>
 
 <!--badges-->
+<h3>Languages and Tools:</h3>
 <div>
-  <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>
+  <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/></a>
   <img src="https://img.shields.io/badge/-HTML-orange"/>
   <img src="https://img.shields.io/badge/-CSS-blue"/>
   <img src="https://img.shields.io/badge/-VISUAL_STUDIO-14b3e3"/>
   <img src="https://img.shields.io/badge/-WEB_STORM-222324"/>
+</div>
+<h3>Frameworks and Libraries:</h3>
+<div>
+  <img src="https://img.shields.io/badge/-BOOTSTRAP-purple"/>
 </div>
