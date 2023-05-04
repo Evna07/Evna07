@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 <!--courses and projects-->
 <h3>Courses and projects:</h3>
 <p>Projects completed by studying materials from <a href="https://hyperskill.org/tracks">JetBrains Hyperskill</a>:</p>
-
+<ul>
+  <li><a href="https://github.com/Evna07/Hyperskill-Cafe">HyperSkill Cafe</a></li>
+</ul>
 <!--operating systems-->
 
