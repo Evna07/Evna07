@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </div>
 <!--introduction-->
 <h2>Hello there, my name is Daria</h2>
-<p>I'm learning frontend development. I'm entirely self-taught, by completing online courses, following youtube tutorials and reading specialized readings. Part of my learning consists of utilizing AI in development proccess. Aiming to beckoming full-stack developer.</p>
+<p>I'm learning frontend development. I'm entirely self-taught, by completing online courses, following youtube tutorials and reading specialized readings. Part of my learning consists of utilizing AI in development proccess. Aiming to become full-stack developer.</p>
 <!--languages and tools-->
 <h3>Languages and Tools:</h3>
 <div>
