@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-CSS-blue"/>
   <img src="https://img.shields.io/badge/-VISUAL_STUDIO-14b3e3"/>
   <img src="https://img.shields.io/badge/-WEBSTORM-222324"/>
+  <img src="https://img.shields.io/badge/-CHATGPT-78cc8f"/>
 </div>
 <!--frameworks and libraries-->
 <h3>Frameworks and Libraries:</h3>
