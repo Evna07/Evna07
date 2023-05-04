@@ -65,4 +65,6 @@ Here are some ideas to get you started:
 <!--operating systems-->
 
 <!--top languages-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evna07)](https://github.com/evna07/github-readme-stats)
+<h3>Statistics:</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=evna07&show_icons=true&theme=blueberry)
