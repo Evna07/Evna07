@@ -50,6 +50,12 @@ Here are some ideas to get you started:
   <li>Hyperskill projects - <a href="https://hyperskill.org/tracks/5">Frontend Track</a></li>
   <ul>
     <li>:ballot_box_with_check:<a href="https://github.com/Evna07/Hyperskill-Cafe">HyperSkill Cafe</a>:coffee:</li>
+    <li>:ballot_box_with_check:<a href="https://github.com/Evna07/Zookeeper-Javascript">Zookeeper (JavaScript)</a>:giraffe:</li>
+    <li>:ballot_box_with_check:<a href="https://github.com/Evna07/Portfolio">Portfolio</a>:ledger:</li>
+    <li>:hourglass_flowing_sand:<a href="">Open Space</a>:rocket:</li>
+    <li>:hourglass_flowing_sand:<a href="">Carnival Gift Shop</a>:teddy_bear:</li>
+    <li>:hourglass_flowing_sand:<a href="">To-Do List (JavaScript)</a>:bookmark_tabs:</li>
+    <li>:hourglass_flowing_sand:<a href="">Simple Chatty Bot (JavaScript)</a>:robot:</li>
   </ul>
 <li>Projects based on youtube tutorials:</li>
   <ul>
