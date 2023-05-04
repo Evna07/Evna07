@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p>I'm learning frontend development. I'm entirely self-taught, by completing online courses, following youtube tutorials and reading specialized readings. Part of my learning consists of utilizing AI in development proccess. Aiming to become full-stack developer.</p>
 <!--about me-->
 <h3>About me</h3>
-<p>:hourglass_flowing_sand: I’m currently learning ... javascript</p>
+<p>:hourglass_flowing_sand: I’m currently learning ... javascript, HTML & CSS</p>
 <!--languages and tools-->
 <h3>Languages and Tools:</h3>
 <div>
