@@ -47,7 +47,13 @@ Here are some ideas to get you started:
 <h3>Courses and projects:</h3>
 <p>Projects completed by studying materials from <a href="https://hyperskill.org/tracks">JetBrains Hyperskill</a>:</p>
 <ul>
-  <li>:ballot_box_with_check:<a href="https://github.com/Evna07/Hyperskill-Cafe">HyperSkill Cafe</a>:coffee:</li>
+  <li>Hyperskill projects - <a href="https://hyperskill.org/tracks/5">Frontend Track</a></li>
+  <ul>
+    <li>:ballot_box_with_check:<a href="https://github.com/Evna07/Hyperskill-Cafe">HyperSkill Cafe</a>:coffee:</li>
+  </ul>
+<li>Projects based on youtube tutorials:</li>
+  <ul>
+    <li>:ballot_box_with_check:<a href="https://github.com/Evna07/Coffee-Shop#coffee-shop">Responsive Coffee Shop</a>:coffee:</li>
+  </ul>
 </ul>
-<p>Projects based on youtube tutorials:</p>
 <!--operating systems-->
