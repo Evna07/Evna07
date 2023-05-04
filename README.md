@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p>I'm learning frontend development. I'm entirely self-taught, by completing online courses, following youtube tutorials and reading specialized readings. Part of my learning consists of utilizing AI in development proccess. Aiming to become full-stack developer.</p>
 <!--about me-->
 <h3>About me</h3>
-<p>🌱 I’m currently learning ... javascript</p>
+<p>:hourglass_flowing_sand: I’m currently learning ... javascript</p>
 <!--languages and tools-->
 <h3>Languages and Tools:</h3>
 <div>
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <h3>Courses and projects:</h3>
 <p>Projects completed by studying materials from <a href="https://hyperskill.org/tracks">JetBrains Hyperskill</a>:</p>
 <ul>
-  <li><a href="https://github.com/Evna07/Hyperskill-Cafe">HyperSkill Cafe</a></li>
+  <li>:ballot_box_with_check:<a href="https://github.com/Evna07/Hyperskill-Cafe">HyperSkill Cafe</a>:coffee:</li>
 </ul>
+<p>Projects based on youtube tutorials:</p>
 <!--operating systems-->
-
