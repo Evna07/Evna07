@@ -20,10 +20,10 @@ Here are some ideas to get you started:
   my inspiration https://github.com/Alena2020
 -->
 <div id ="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBlMDI1OWNhN2I3MDliZDVmZDYwNGE2M2YxYzVlOWFiMmE2NjdiZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/s63Jzew1dfO3j6nndV/giphy.gif" width="350"/>
+  <img src="https://cdn.pixabay.com/photo/2021/03/27/06/31/code-6127616_960_720.png" width="200"/>
 </div>
 <!--introduction-->
-<h2>Hello there, my name is Daria</h2>
+<h2>Hello there, my name is Daria.</h2>
 <p>I'm learning frontend development. I'm entirely self-taught, by completing online courses, following youtube tutorials and reading specialized readings. Part of my learning consists of utilizing AI in development proccess. Aiming to become full-stack developer.</p>
 <!--about me-->
 <h3>About me</h3>
