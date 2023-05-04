@@ -16,7 +16,8 @@ Here are some ideas to get you started:
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBlMDI1OWNhN2I3MDliZDVmZDYwNGE2M2YxYzVlOWFiMmE2NjdiZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/s63Jzew1dfO3j6nndV/giphy.gif" width="350"/>
 </div>
 <!--introduction-->
-<h4>Hi, my name is Daria and I'm learning frontend development</h4>
+<h2>Hello there, my name is Daria</h2>
+<p>I'm learning frontend development</p>
 <!--languages and tools-->
 <h3>Languages and Tools:</h3>
 <div>
