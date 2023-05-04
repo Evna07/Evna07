@@ -1,7 +1,3 @@
-<div id ="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBlMDI1OWNhN2I3MDliZDVmZDYwNGE2M2YxYzVlOWFiMmE2NjdiZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/s63Jzew1dfO3j6nndV/giphy.gif" width="250"/>
-</div>
-
 <!--
 **Evna07/Evna07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id ="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBlMDI1OWNhN2I3MDliZDVmZDYwNGE2M2YxYzVlOWFiMmE2NjdiZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/s63Jzew1dfO3j6nndV/giphy.gif" width="250"/>
+</div>
