@@ -19,6 +19,9 @@ Here are some ideas to get you started:
   to finish this page https://www.sitepoint.com/github-profile-readme/
   my inspiration https://github.com/Alena2020
 -->
+<!--stuff to check out
+https://www.simplilearn.com/front-end-developer-free-course-skillup
+-->
 <div id ="header" align="center">
   <img src="https://cdn.pixabay.com/photo/2021/03/27/06/31/code-6127616_960_720.png" width="200"/>
 </div>
