@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 -->
 <!--stuff to check out
 https://www.simplilearn.com/front-end-developer-free-course-skillup
+https://www.theodinproject.com/paths/foundations/courses/foundations
 -->
 <!--autko
 https://www.fiat.pl/configurator/#/500-bev/500-bev-my23/nuova-500/00332M122000/
