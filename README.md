@@ -26,6 +26,8 @@ https://www.theodinproject.com/paths/foundations/courses/foundations
 <!--autko
 https://www.fiat.pl/configurator/#/500-bev/500-bev-my23/nuova-500/00332M122000/
 -->
+<!--https://www.amazon.pl/Sony-HT-SF150-l%C4%85czno%C5%9Bci%C4%85-Bluetooth-technologi%C4%85/dp/B078Y5Q6W9/ref=sr_1_2_sspa?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1NBMXQLFNUGD6&keywords=soundbar&qid=1683635317&sprefix=soundbar%2Caps%2C179&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+-->
 <div id ="header" align="center">
   <img src="https://cdn.pixabay.com/photo/2021/03/27/06/31/code-6127616_960_720.png" width="200"/>
 </div>
