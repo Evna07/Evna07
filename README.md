@@ -66,7 +66,7 @@ https://www.fiat.pl/configurator/#/500-bev/500-bev-my23/nuova-500/00332M122000/
     <li>:hourglass_flowing_sand:<a href="">Carnival Gift Shop</a>:teddy_bear:</li>
     <li>:hourglass_flowing_sand:<a href="">To-Do List (JavaScript)</a>:bookmark_tabs:</li>
     <li>:hourglass_flowing_sand:<a href="">Simple Chatty Bot (JavaScript)</a>:robot:</li>
-    <li>:hourglass_flowing_sand:<a href="">Flashcards (Frontend)</a>:flower_playing_cards:</li>
+    <li>:ballot_box_with_check:<a href="https://github.com/Evna07/Flashcards-Frontend">Flashcards (Frontend)</a>:flower_playing_cards:</li>
   </ul>
 <li>Projects based on youtube tutorials:</li>
   <ul>
