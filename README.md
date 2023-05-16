@@ -27,6 +27,12 @@ https://www.theodinproject.com/paths/foundations/courses/foundations
 https://www.fiat.pl/configurator/#/500-bev/500-bev-my23/nuova-500/00332M122000/
 -->
 <!--https://www.amazon.pl/Sony-HT-SF150-l%C4%85czno%C5%9Bci%C4%85-Bluetooth-technologi%C4%85/dp/B078Y5Q6W9/ref=sr_1_2_sspa?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1NBMXQLFNUGD6&keywords=soundbar&qid=1683635317&sprefix=soundbar%2Caps%2C179&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+
+https://www.amazon.pl/drewniane-balkonowe-akacjowego-zatrzaskowy-atmosferyczne/dp/B0BZPLXQTF/ref=sr_1_16?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=25MRUQZKGJ0OJ&keywords=P%C5%82ytki%2Btarasowe%2Bdrewniane&qid=1684226366&sprefix=p%C5%82ytki%2Btarasowe%2Bdrewniane%2Caps%2C224&sr=8-16&th=1
+
+https://www.amazon.pl/MARAPON%C2%AE-Statyczna-Samoprzylepna-EBookiem-Profesjonalnymi/dp/B07CT59FK9/ref=sr_1_1?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1CUXRA7UGFHLZ&keywords=window%2Bfilm&qid=1684227922&refinements=p_72%3A20875468031&rnid=20875467031&sprefix=window%2Bfilm%2Caps%2C135&sr=8-1&th=1
+
+https://allegro.pl/oferta/oslona-balkonowa-parawan-na-balkon-90x300cm-11920648149
 -->
 <div id ="header" align="center">
   <img src="https://cdn.pixabay.com/photo/2021/03/27/06/31/code-6127616_960_720.png" width="200"/>
