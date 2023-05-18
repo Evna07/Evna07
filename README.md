@@ -53,6 +53,7 @@ https://allegro.pl/oferta/oslona-balkonowa-parawan-na-balkon-90x300cm-1192064814
   <a href="https://www.jetbrains.com/webstorm/"><img src="https://img.shields.io/badge/-WEBSTORM-222324"/></a>
   <a href="https://openai.com/blog/chatgpt"><img src="https://img.shields.io/badge/-CHATGPT-78cc8f"/></a>
   <a href="https://dream.ai/"><img src="https://img.shields.io/badge/-DREAM_BY_WOMBO-lavender"/></a>
+  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/-FIGMA-DD4FF9"/></a>
 </div>
 <!--frameworks and libraries-->
 <h3>Frameworks and Libraries:</h3>
