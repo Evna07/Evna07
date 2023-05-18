@@ -83,5 +83,7 @@ https://allegro.pl/oferta/oslona-balkonowa-parawan-na-balkon-90x300cm-1192064814
 
 <!--top languages-->
 <h3>Statistics:</h3>
-<!--![codewars stats](https://www.codewars.com/users/Evna07/badges/micro)-->
+
+![codewars stats](https://www.codewars.com/users/Evna07/badges/small)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=evna07&show_icons=true&theme=blueberry)
