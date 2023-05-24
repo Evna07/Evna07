@@ -72,7 +72,7 @@ https://allegro.pl/oferta/oslona-balkonowa-parawan-na-balkon-90x300cm-1192064814
     <li>:ballot_box_with_check:<a href="https://github.com/Evna07/Open-Space">Open Space</a>:rocket:</li>
     <li>:ballot_box_with_check:<a href="https://github.com/Evna07/Carnival-gift-shop">Carnival Gift Shop</a>:teddy_bear:</li>
     <li>:hourglass_flowing_sand:<a href="">To-Do List (JavaScript)</a>:bookmark_tabs:</li>
-    <li>:hourglass_flowing_sand:<a href="">Simple Chatty Bot (JavaScript)</a>:robot:</li>
+    <li>:ballot_box_with_check:<a href="">Simple Chatty Bot (JavaScript)</a>:robot:</li>
     <li>:ballot_box_with_check:<a href="https://github.com/Evna07/Flashcards-Frontend">Flashcards (Frontend)</a>:flower_playing_cards:</li>
   </ul>
 <li>Projects based on youtube tutorials:</li>
