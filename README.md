@@ -53,6 +53,12 @@ https://www.amazon.pl/Honneeo-Szklany-pokrywka-mieszadlem-szczotk%C4%85/dp/B08K3
 https://www.amazon.pl/Longita-Pier%C5%9Bcie%C5%84-chirurgiczna-sze%C5%9Bcienna-nierdzewna/dp/B0BKZJJSDD/ref=sr_1_66?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1TT3UXSTYFFYG&keywords=srebrny+piercing&qid=1687443287&rnid=20876071031&sprefix=srebrny+pier%2Caps%2C195&sr=8-66
 
 https://www.amazon.pl/T4U-ceramiczne-doniczki-sukulenty-zaokr%C4%85glony/dp/B01EUCGJ1M?pf_rd_r=Z8S11XHK5DNW5ENB215P&pf_rd_t=Events&pf_rd_i=deals&pf_rd_p=32e1890c-8400-445a-9a31-127d91c80b1f&pf_rd_s=slot-14&ref=dlx_deals_gd_dcl_img_63_56853ae0_dt_sl14_1f
+
+https://www.amazon.pl/Sandman-Neil-Gaiman/dp/1401294707/ref=sr_1_14?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=WOZ6T4YS3PVD&keywords=neil+gaiman&qid=1687522440&refinements=p_n_feature_nine_browse-bin%3A20877756031%7C20877817031&rnid=20877751031&s=books&sprefix=neil+gaiman%2Cstripbooks%2C152&sr=1-14
+
+https://www.amazon.pl/Zadziwiaj%C4%85cy-Maurycy-edukowane-gryzonie-%C5%9Awiat/dp/8382340881/ref=sr_1_1?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=34Q9XK51BTXPF&keywords=terry+pratchett+maurycy&qid=1687522344&s=books&sprefix=terry+pratchett+maurycy%2Cstripbooks%2C146&sr=1-1
+
+https://www.amazon.pl/Last-Hero-Discworld-Fable/dp/0575081961/ref=sr_1_1?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=terry+pratchett+last+hero&qid=1687522942&sr=8-1
 -->
 <div id ="header" align="center">
   <img src="https://cdn.pixabay.com/photo/2021/03/27/06/31/code-6127616_960_720.png" width="200"/>
