@@ -33,6 +33,26 @@ https://www.amazon.pl/drewniane-balkonowe-akacjowego-zatrzaskowy-atmosferyczne/d
 https://www.amazon.pl/MARAPON%C2%AE-Statyczna-Samoprzylepna-EBookiem-Profesjonalnymi/dp/B07CT59FK9/ref=sr_1_1?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1CUXRA7UGFHLZ&keywords=window%2Bfilm&qid=1684227922&refinements=p_72%3A20875468031&rnid=20875467031&sprefix=window%2Bfilm%2Caps%2C135&sr=8-1&th=1
 
 https://allegro.pl/oferta/oslona-balkonowa-parawan-na-balkon-90x300cm-11920648149
+
+https://www.amazon.pl/Jywmsc-wodoodporny-magnetyczny-zatrzaskowy-Uniwersalny/dp/B07Y1Q4TQN/ref=sr_1_271?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=plecak+skorzany&qid=1687425964&refinements=p_n_size_two_browse-vebin%3A20875492031&rnid=20875490031&s=fashion&sr=1-271
+
+https://www.amazon.pl/Samsung-SM-T733N-Qualcomm-Snapdragon-Android/dp/B09BJV8V6T/ref=sr_1_5?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1WF7XEZ468DHJ&keywords=galaxy+tab+s7&qid=1687424297&sprefix=galaxy+tab+s7%2Caps%2C250&sr=8-5
+
+https://www.amazon.pl/BOOX-Tab-ePapar-Android-G-Sensor/dp/B0BNZZ4N24/ref=sr_1_6?keywords=eink+reader&qid=1687429616&refinements=p_89%3ABOOX&rnid=21074364031&s=electronics&sprefix=eink%2Caps%2C197&sr=1-6#customerReviews
+
+https://www.amazon.pl/Sony-HT-SF150-l%C4%85czno%C5%9Bci%C4%85-Bluetooth-technologi%C4%85/dp/B078Y5Q6W9/ref=sr_1_18?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1TKG9Q1NFJFLR&keywords=soundbar&qid=1687431014&rnid=20876071031&sprefix=soundbar%2Caps%2C196&sr=8-18
+
+https://www.amazon.pl/Dr-Martens-Vegan-1460-Martensy/dp/B004SI1QKI/ref=sr_1_90?psc=1&qid=1687431157&refinements=p_n_size_browse-vebin%3A20922388031%2Cp_n_size_two_browse-vebin%3A20875492031%2Cp_n_fulfilled_by_amazon%3A20876072031&s=apparel&sr=1-90
+
+https://www.amazon.pl/Ring-Fit-Adventure-Nintendo-Switch/dp/B07XTVTRLZ/ref=sr_1_1?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=JGJVXCAUMPNM&keywords=ring+fit+adventure&qid=1687431269&rnid=20876071031&sprefix=ring+fit+adventure%2Caps%2C224&sr=8-1
+
+https://www.amazon.pl/Philips-243V7QDSB-monitor-1920-czarny/dp/B06Y13QBYL/ref=sr_1_1?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3DR5D27NHDXYY&keywords=monitor&qid=1687433158&rnid=20876071031&sprefix=monitor%2Caps%2C206&sr=8-1
+
+https://www.amazon.pl/Honneeo-Szklany-pokrywka-mieszadlem-szczotk%C4%85/dp/B08K3N86BT/ref=sr_1_24?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1CBD1WYZFG3HV&keywords=dzbanek+ceramiczny+2l&qid=1687435997&rnid=20876071031&sprefix=dzbanek+ceramiczny+2l%2Caps%2C231&sr=8-24
+
+https://www.amazon.pl/Longita-Pier%C5%9Bcie%C5%84-chirurgiczna-sze%C5%9Bcienna-nierdzewna/dp/B0BKZJJSDD/ref=sr_1_66?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1TT3UXSTYFFYG&keywords=srebrny+piercing&qid=1687443287&rnid=20876071031&sprefix=srebrny+pier%2Caps%2C195&sr=8-66
+
+https://www.amazon.pl/T4U-ceramiczne-doniczki-sukulenty-zaokr%C4%85glony/dp/B01EUCGJ1M?pf_rd_r=Z8S11XHK5DNW5ENB215P&pf_rd_t=Events&pf_rd_i=deals&pf_rd_p=32e1890c-8400-445a-9a31-127d91c80b1f&pf_rd_s=slot-14&ref=dlx_deals_gd_dcl_img_63_56853ae0_dt_sl14_1f
 -->
 <div id ="header" align="center">
   <img src="https://cdn.pixabay.com/photo/2021/03/27/06/31/code-6127616_960_720.png" width="200"/>
