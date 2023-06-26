@@ -59,6 +59,26 @@ https://www.amazon.pl/Sandman-Neil-Gaiman/dp/1401294707/ref=sr_1_14?__mk_pl_PL=%
 https://www.amazon.pl/Zadziwiaj%C4%85cy-Maurycy-edukowane-gryzonie-%C5%9Awiat/dp/8382340881/ref=sr_1_1?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=34Q9XK51BTXPF&keywords=terry+pratchett+maurycy&qid=1687522344&s=books&sprefix=terry+pratchett+maurycy%2Cstripbooks%2C146&sr=1-1
 
 https://www.amazon.pl/Last-Hero-Discworld-Fable/dp/0575081961/ref=sr_1_1?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=terry+pratchett+last+hero&qid=1687522942&sr=8-1
+
+https://www.amazon.pl/Kichly-wst%C4%99pnie-sezonowane-%C5%BCeliwo-Skillet/dp/B07V3F2T1M?pf_rd_r=AB86Q3HD25N2GM2HS9C8&pf_rd_t=Events&pf_rd_i=deals&pf_rd_p=32e1890c-8400-445a-9a31-127d91c80b1f&pf_rd_s=slot-14&ref=dlx_deals_gd_dcl_img_4_93109395_dt_sl14_1f
+
+https://www.amazon.pl/prostok%C4%85tny-wysokiej-jako%C5%9Bci-przygotowania-piekarniku/dp/B07NVRFJG9/ref=sr_1_9?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=12TPPWY2Q3256&keywords=kamien+do+pizzy&qid=1687775915&sprefix=kamien+do+pizzy%2Caps%2C208&sr=8-9
+
+https://www.amazon.pl/Relaxdays-krojenia-ograniczaj%C4%85ca-antybakteryjna-naturalna/dp/B084JFC46B/ref=sr_1_53?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2V3INF4BAFG4H&keywords=deska+do+krojenia&qid=1687775896&sprefix=deska+do+krojenia%2Caps%2C235&sr=8-53
+
+https://www.amazon.pl/Herogo-kuchennych-temperatury-drewnianym-nieprzywieraj%C4%85ce/dp/B08ZNC1JRD/ref=sr_1_68?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1MR8ZR5L8AXHG&keywords=kitchen+utensils&qid=1687776427&sprefix=kitchen+utensils%2Caps%2C185&sr=8-68
+
+https://www.amazon.pl/Praknu-pojemniki-pokrywkami-hermetyczne-uszczelek/dp/B0839B4RBV/ref=sr_1_102?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2M1TPBZ5G99YJ&keywords=pojemniki+kuchenne&qid=1687776166&sprefix=pojemniki+kuchenn%2Caps%2C182&sr=8-102#customerReviews
+
+https://www.amazon.pl/Hermetyczne-Bambusowymi-Pokrywkami-Szczelnych-Przechowywania/dp/B08NF1X2HJ/ref=sr_1_53?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2M1TPBZ5G99YJ&keywords=pojemniki+kuchenne&qid=1687776054&sprefix=pojemniki+kuchenn%2Caps%2C182&sr=8-53
+
+https://www.amazon.pl/24-cz%C4%99%C5%9Bciowy-kamionkowych-%C5%9Br%C3%B3dziemnomorskich-mikrofalowej-zarysowania/dp/B0C3MRGH2F/ref=sr_1_69?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30PN8521874CI&keywords=serwis+obiadowy&qid=1687776765&rnid=20876071031&sprefix=serwis+obiadowy%2Caps%2C168&sr=8-69
+
+https://www.amazon.pl/HaWare-60-cz%C4%99%C5%9Bciowy-nierdzewnej-nowoczesnym-restauracji/dp/B08224ZC3N/ref=sr_1_18?keywords=sztu%C4%87ce&qid=1687776885&rnid=20876071031&sprefix=sztu%2Caps%2C166&sr=8-18
+
+https://www.amazon.pl/doroslych-Unikalne-nastolatk%C3%B3w-senior%C3%B3w-70x100cm/dp/B096QJB4MN/ref=sr_1_627?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=ZEDPRVUDZIXH&keywords=puzzles&qid=1687778972&refinements=p_n_feature_browse-bin%3A21070948031%7C21070950031&rnid=20876071031&s=toys&sprefix=puzzle%2Caps%2C215&sr=1-627&th=1
+
+https://www.amazon.pl/Jigsaw-Puzzles-Gift-doroslych-sztuk-70x100cm/dp/B092MDS71F/ref=sr_1_365?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=ZEDPRVUDZIXH&keywords=puzzles&qid=1687778799&refinements=p_n_feature_browse-bin%3A21070948031%7C21070950031&rnid=20876071031&s=toys&sprefix=puzzle%2Caps%2C215&sr=1-365&th=1
 -->
 <div id ="header" align="center">
   <img src="https://cdn.pixabay.com/photo/2021/03/27/06/31/code-6127616_960_720.png" width="200"/>
