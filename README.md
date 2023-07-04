@@ -83,4 +83,4 @@ https://www.theodinproject.com/paths/foundations/courses/foundations
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=evna07&show_icons=true&theme=blueberry)
 
-<!-- emoji cheat sheet-->https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+<!-- emoji cheat sheet: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md-->
