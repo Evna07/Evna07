@@ -32,7 +32,7 @@ https://www.theodinproject.com/paths/foundations/courses/foundations
 <p>I'm learning frontend development. I'm entirely self-taught, by completing online courses, following youtube tutorials and reading specialized readings. Part of my learning consists of utilizing AI in development proccess. Aiming to become full-stack developer.</p>
 <!--about me-->
 <h3>About me</h3>
-<p>:hourglass_flowing_sand: I’m currently learning ... <a href="https://hyperskill.org/tracks/5">javascript, HTML & CSS</a></p>
+<p>:hourglass_flowing_sand: I’m currently learning ... javascript, HTML & CSS</p>
 <!--languages and tools-->
 <h3>Languages and Tools:</h3>
 <div>
@@ -69,6 +69,10 @@ https://www.theodinproject.com/paths/foundations/courses/foundations
   <ul>
     <li>:ballot_box_with_check:<a href="https://github.com/Evna07/Coffee-Shop#coffee-shop">Responsive Coffee Shop</a>:coffee:</li>
   </ul>
+<li>My own creations:</li>
+  <ul>
+    <li>:hourglass_flowing_sand:<a href="">Paragraph Dungeon Crawler:space_invader:</li>
+  </ul>
 </ul>
 <!--operating systems-->
 
@@ -78,3 +82,5 @@ https://www.theodinproject.com/paths/foundations/courses/foundations
 ![codewars stats](https://www.codewars.com/users/Evna07/badges/small)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=evna07&show_icons=true&theme=blueberry)
+
+<!-- emoji cheat sheet-->https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
