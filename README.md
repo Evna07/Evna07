@@ -32,7 +32,7 @@ https://www.theodinproject.com/paths/foundations/courses/foundations
 <p>I'm learning frontend development. I'm entirely self-taught, by completing online courses, following youtube tutorials and reading specialized readings. Part of my learning consists of utilizing AI in development proccess. Aiming to become full-stack developer.</p>
 <!--about me-->
 <h3>About me</h3>
-<p>:hourglass_flowing_sand: I’m currently learning ... javascript, HTML & CSS</p>
+<p>:hourglass_flowing_sand: I’m currently learning ... javascript, HTML & CSS. And SQL!</p>
 <!--languages and tools-->
 <h3>Languages and Tools:</h3>
 <div>
