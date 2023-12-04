@@ -69,6 +69,11 @@ https://www.theodinproject.com/paths/foundations/courses/foundations
   <ul>
     <li>:ballot_box_with_check:<a href="https://github.com/Evna07/Coffee-Shop#coffee-shop">Responsive Coffee Shop</a>:coffee:</li>
   </ul>
+  <li>FreeCodeCamp projects - <a href="https://www.freecodecamp.org/learn">Responsive Web Design</a></li>
+  <ul>
+    <li>:ballot_box_with_check:<a href="https://github.com/Evna07/Survey_Form_FreeCodeCamp">Survey Form</a></li>
+    <li>:hourglass_flowing_sand:<a href="">Tribute Page</a></li>
+  </ul>
 <li>My own creations:</li>
   <ul>
     <li>:hourglass_flowing_sand:<a href="">Paragraph Dungeon Crawler:space_invader:</li>
