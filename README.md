@@ -32,7 +32,7 @@ https://www.theodinproject.com/paths/foundations/courses/foundations
 <p>I'm learning frontend development. I'm entirely self-taught, by completing online courses, following youtube tutorials and reading specialized readings. Part of my learning consists of utilizing AI in development proccess. Aiming to become full-stack developer.</p>
 <!--about me-->
 <h3>About me</h3>
-<p>:hourglass_flowing_sand: I’m currently learning ... javascript, HTML & CSS. And SQL!</p>
+<p>:hourglass_flowing_sand: I’m currently learning ... Vanilla javascript, HTML & CSS. And React!</p>
 <!--languages and tools-->
 <h3>Languages and Tools:</h3>
 <div>
@@ -49,10 +49,15 @@ https://www.theodinproject.com/paths/foundations/courses/foundations
 <h3>Frameworks and Libraries:</h3>
 <div>
   <img src="https://img.shields.io/badge/-BOOTSTRAP-purple"/>
+  <img src="https://img.shields.io/badge/-REACT-lightblue"/>
 </div>
 <!--courses and projects-->
 <h3>Courses and projects:</h3>
 <p>Currently enrolled on JS & React course at <a href='https://futurecollars.com/'>Future Collars</a></p>
+<li>Future Collars - Frontend Track</li>
+  <ul>
+    <li>:hourglass_flowing_sand:<a href="https://github.com/Evna07/fc-js-project-1">Home Budget App</a>:bookmark_tabs:</li>
+  </ul>
 <p>Projects completed by studying materials from <a href="https://hyperskill.org/tracks">JetBrains Hyperskill</a>:</p>
 <ul>
   <li>Hyperskill projects - <a href="https://hyperskill.org/tracks/5">Frontend Track</a></li>
