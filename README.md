@@ -82,7 +82,7 @@ https://www.theodinproject.com/paths/foundations/courses/foundations
   </ul>
 <li>My own creations:</li>
   <ul>
-    <li>:hourglass_flowing_sand:<a href="">Paragraph Dungeon Crawler:space_invader:</li>
+    <li>:hourglass_flowing_sand:<a href="">Paragraph Dungeon Crawler</a>:space_invader:</li>
   </ul>
 </ul>
 <!--operating systems-->
