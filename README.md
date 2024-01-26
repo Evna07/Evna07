@@ -52,6 +52,7 @@ https://www.theodinproject.com/paths/foundations/courses/foundations
 </div>
 <!--courses and projects-->
 <h3>Courses and projects:</h3>
+<p>Currently enrolled on JS & React course at <a href='https://futurecollars.com/'>Future Collars</a></p>
 <p>Projects completed by studying materials from <a href="https://hyperskill.org/tracks">JetBrains Hyperskill</a>:</p>
 <ul>
   <li>Hyperskill projects - <a href="https://hyperskill.org/tracks/5">Frontend Track</a></li>
