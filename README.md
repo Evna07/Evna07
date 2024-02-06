@@ -29,7 +29,7 @@ https://www.theodinproject.com/paths/foundations/courses/foundations
 </div>
 <!--introduction-->
 <h2>Hello there, my name is Daria.</h2>
-<p>I'm learning frontend development. I'm entirely self-taught, by completing online courses, following youtube tutorials and reading specialized readings. Part of my learning consists of utilizing AI in development proccess. Aiming to become full-stack developer.</p>
+<p>I'm learning frontend development. I'm self-taught, currectly enrolled in IT course on WSB Merito University, by completing online courses, following youtube tutorials and reading specialized readings. Part of my learning consists of utilizing AI in development proccess. Aiming to become full-stack developer.</p>
 <!--about me-->
 <h3>About me</h3>
 <p>:hourglass_flowing_sand: I’m currently learning ... Vanilla javascript, HTML & CSS. And React!</p>
