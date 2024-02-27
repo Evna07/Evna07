@@ -44,6 +44,7 @@ https://www.theodinproject.com/paths/foundations/courses/foundations
   <a href="https://openai.com/blog/chatgpt"><img src="https://img.shields.io/badge/-CHATGPT-78cc8f"/></a>
   <a href="https://dream.ai/"><img src="https://img.shields.io/badge/-DREAM_BY_WOMBO-pink"/></a>
   <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/-FIGMA-DD4FF9"/></a>
+  <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/-SASS/SCSS-ffd6ff"/></a>
 </div>
 <!--frameworks and libraries-->
 <h3>Frameworks and Libraries:</h3>
