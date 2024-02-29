@@ -57,7 +57,10 @@ https://www.theodinproject.com/paths/foundations/courses/foundations
 <p>Currently enrolled on JS & React course at <a href='https://futurecollars.com/'>Future Collars</a></p>
 <li>Future Collars - Frontend Track</li>
   <ul>
-    <li>:hourglass_flowing_sand:<a href="https://github.com/Evna07/fc-js-project-1">Home Budget App</a>:bookmark_tabs:</li>
+    <li>:ballot_box_with_check:<a href="https://celebrated-capybara-6062a1.netlify.app/">Home Budget App (JS)(translation in progress)</a>:bookmark_tabs:</li>
+    <li>:ballot_box_with_check:<a href="https://lovely-otter-91a7eb.netlify.app/">Simple Currency Converter App (JS)(translation in progress)</a>:euro:</li>
+    <li>:hourglass_flowing_sand:<a href="https://lovely-otter-91a7eb.netlify.app/">Simple Responsive Page App (React)(translation in progress)</a>:four_leaf_clover:</li>
+    <li>:hourglass_flowing_sand:<a href="https://stellar-caramel-5b909f.netlify.app/">Simple Currency Converter App remade (React)(translation in progress)</a>:dollar:</li>
   </ul>
 <p>Projects completed by studying materials from <a href="https://hyperskill.org/tracks">JetBrains Hyperskill</a>:</p>
 <ul>
@@ -68,7 +71,6 @@ https://www.theodinproject.com/paths/foundations/courses/foundations
     <li>:ballot_box_with_check:<a href="https://github.com/Evna07/Portfolio">Portfolio</a>:ledger:</li>
     <li>:ballot_box_with_check:<a href="https://github.com/Evna07/Open-Space">Open Space</a>:rocket:</li>
     <li>:ballot_box_with_check:<a href="https://github.com/Evna07/Carnival-gift-shop">Carnival Gift Shop</a>:teddy_bear:</li>
-    <li>:hourglass_flowing_sand:<a href="">To-Do List (JavaScript)</a>:bookmark_tabs:</li>
     <li>:ballot_box_with_check:<a href="">Simple Chatty Bot (JavaScript)</a>:robot:</li>
     <li>:ballot_box_with_check:<a href="https://github.com/Evna07/Flashcards-Frontend">Flashcards (Frontend)</a>:flower_playing_cards:</li>
   </ul>
