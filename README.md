@@ -39,7 +39,7 @@ https://www.theodinproject.com/paths/foundations/courses/foundations
   <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML-orange"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS-blue"/></a>
-  <a href="https://pl.wikipedia.org/wiki/Visual_Studio_Code"><img src="https://img.shields.io/badge/-VISUAL_STUDIO-14b3e3"/></a>
+  <a href="https://pl.wikipedia.org/wiki/Visual_Studio_Code"><img src="https://img.shields.io/badge/-VISUAL_STUDIO_CODE-14b3e3"/></a>
   <a href="https://www.jetbrains.com/webstorm/"><img src="https://img.shields.io/badge/-WEBSTORM-222324"/></a>
   <a href="https://openai.com/blog/chatgpt"><img src="https://img.shields.io/badge/-CHATGPT-78cc8f"/></a>
   <a href="https://dream.ai/"><img src="https://img.shields.io/badge/-DREAM_BY_WOMBO-pink"/></a>
