@@ -50,7 +50,7 @@ https://www.theodinproject.com/paths/foundations/courses/foundations
 <h3>Frameworks and Libraries:</h3>
 <div>
   <img src="https://img.shields.io/badge/-BOOTSTRAP-purple"/>
-  <img src="https://img.shields.io/badge/-REACT-lightblue"/>
+  <img src="https://img.shields.io/badge/-REACT-168FB6"/>
 </div>
 <!--courses and projects-->
 <h3>Courses and projects:</h3>
