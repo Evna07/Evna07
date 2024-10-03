@@ -85,7 +85,6 @@ https://www.theodinproject.com/paths/foundations/courses/foundations
 <li>My own creations:</li>
   <ul>
     <li><a href="https://simplyelegant.netlify.app/">Personal Portfolio</a></li>
-    <li><a href="https://stellar-caramel-5b909f.netlify.app/">React Currency Converter</a></li>
   </ul>
 </ul>
 <!--operating systems-->
