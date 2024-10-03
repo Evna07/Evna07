@@ -81,11 +81,11 @@ https://www.theodinproject.com/paths/foundations/courses/foundations
   <li>FreeCodeCamp projects - <a href="https://www.freecodecamp.org/learn">Responsive Web Design</a></li>
   <ul>
     <li>:ballot_box_with_check:<a href="https://github.com/Evna07/Survey_Form_FreeCodeCamp">Survey Form</a></li>
-    <li>:hourglass_flowing_sand:<a href="">Tribute Page</a></li>
   </ul>
 <li>My own creations:</li>
   <ul>
-    <li>:hourglass_flowing_sand:<a href="">Paragraph Dungeon Crawler</a>:space_invader:</li>
+    <li><a href="https://simplyelegant.netlify.app/">Personal Portfolio</a></li>
+    <li><a href="https://stellar-caramel-5b909f.netlify.app/">React Currency Converter</a></li>
   </ul>
 </ul>
 <!--operating systems-->
